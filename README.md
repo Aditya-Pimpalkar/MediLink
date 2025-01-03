@@ -82,12 +82,5 @@ We welcome contributions to improve MediLink. If you would like to contribute, p
 ### **License**
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-### **Contact**
-For any questions or feedback, feel free to contact us:
-- **Aditya Pimpalkar**: pimpalkar.a@northeastern.edu
-- **Diksha Sahare**: sahare.d@northeastern.edu
-- **Komal Khairnar**: khairnar.ko@northeastern.edu
-
----
 
 Thank you for exploring MediLink!
